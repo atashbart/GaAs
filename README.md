@@ -30,9 +30,13 @@ out put the file are:
 7. GaAs p-i-n Solar Cell with ~2 µm active layer
 
 === PERFORMANCE EVALUATION ===
+
 ✓ Excellent efficiency (>27%)
+
 ✓ Outstanding fill factor (>88%)
+
 ✓ Very high current density (>30 mA/cm²)
+
 ✓ Competitive with state-of-the-art GaAs cells
 
 
