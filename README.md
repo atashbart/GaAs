@@ -1,4 +1,6 @@
 # GaAs
+Program write by Shahin Atashbar Tehrani
+
 This file run by Python program in windoews and Linux
 
 downlowd python v 3.12 for windows
