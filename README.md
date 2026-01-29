@@ -13,6 +13,6 @@ pip install numpy
 
 pip install matplotlib
 
-in IDLE	 open the rogram and run the program
+in IDLE	 open the program and run the program
 
 
